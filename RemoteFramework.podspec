@@ -8,9 +8,10 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://EXAMPLE/RemoteFramework"
   spec.license      = "Proprietary"
   spec.author       = "prisonedinwardrobe"
-  spec.platform     = :ios, "11.0"
+  spec.platform     = :ios
+  spec.ios.deployment_target   = '11.0'
   spec.source       = { :git => "https://github.com/prisonedinwardrobe/RemoteFrameworkArchive.git", :branch => "master", :tag => "0.0.1" }
-  spec.vendored_frameworks = "RemoteFramework.xcframework"
+  spec.vendored_frameworks = ['RemoteFramework.xcframework']
   spec.requires_arc = true
   
   spec.dependency 'AMPopTip'      #, '4.4.0'
