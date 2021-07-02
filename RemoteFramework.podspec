@@ -23,11 +23,6 @@ Pod::Spec.new do |spec|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   spec.source       = { :git => "https://github.com/prisonedinwardrobe/RemoteFrameworkArchive.git", :branch => "master", :tag => "0.0.1" }
-
-
-  # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  #spec.exclude_files = "RemoteFramework/Exclude"
-  #spec.public_header_files = "RemoteFramework/**/*.h"
   
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -35,7 +30,7 @@ Pod::Spec.new do |spec|
  
  
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.vendored_frameworks = "RemoteFramework.framework"
+  spec.vendored_frameworks = "XCFrameworkExample.xcframework"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
