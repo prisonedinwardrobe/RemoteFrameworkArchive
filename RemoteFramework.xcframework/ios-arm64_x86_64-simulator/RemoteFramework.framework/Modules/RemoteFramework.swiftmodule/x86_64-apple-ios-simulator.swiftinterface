@@ -11,7 +11,10 @@ final public class PublicLogger {
   @objc deinit
 }
 public enum LogLevel {
-  case error, warning, debug, info
+  case error
+  case warning
+  case debug
+  case info
   public static func == (a: RemoteFramework.LogLevel, b: RemoteFramework.LogLevel) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {

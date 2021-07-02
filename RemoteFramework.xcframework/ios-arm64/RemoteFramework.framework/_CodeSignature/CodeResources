@@ -18,27 +18,27 @@
 		</data>
 		<key>Modules/RemoteFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		9riiPj0KUgra7YyjqekDtj9HWqI=
+		1Y6GdU7w/qfauZu/Ivhy+w0Mok8=
 		</data>
 		<key>Modules/RemoteFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zJML9UqsRwpxlssf9K0/2iC877w=
+		ezd1yaz6v53+LQiN44Y3NCKe/jA=
 		</data>
 		<key>Modules/RemoteFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		DfznIOkTHaxhxFPUydLYfGi4mWE=
+		idBYjFavDsyo/lJzVWP002EDd6c=
 		</data>
 		<key>Modules/RemoteFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		9riiPj0KUgra7YyjqekDtj9HWqI=
+		1Y6GdU7w/qfauZu/Ivhy+w0Mok8=
 		</data>
 		<key>Modules/RemoteFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		zJML9UqsRwpxlssf9K0/2iC877w=
+		ezd1yaz6v53+LQiN44Y3NCKe/jA=
 		</data>
 		<key>Modules/RemoteFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		DfznIOkTHaxhxFPUydLYfGi4mWE=
+		idBYjFavDsyo/lJzVWP002EDd6c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,42 +69,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dTwNyUT0wGKcpUHWFBnc3guxxK3IMLTpqRqrtVTKGUQ=
+			Vneu3f1dgx8PiItEbZlSFsPfabtvL09GMxu3NXPx3jI=
 			</data>
 		</dict>
 		<key>Modules/RemoteFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5H3uYc7aqsTe9wgbE7XiR6mnh7XlHkfirAK1hGWEkwc=
+			7jLDoIegB2V6ElTJHaPYxRJwNoUH8ScL59TY5g8yrT8=
 			</data>
 		</dict>
 		<key>Modules/RemoteFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AzA9cSHyqZEND8+o+JMf9XxqOnEjQquet1U36yRgUcw=
+			I+57PT3PwxmWMzdebVJTmrXJb1dIzgsB4N48h7JAt4g=
 			</data>
 		</dict>
 		<key>Modules/RemoteFramework.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dTwNyUT0wGKcpUHWFBnc3guxxK3IMLTpqRqrtVTKGUQ=
+			Vneu3f1dgx8PiItEbZlSFsPfabtvL09GMxu3NXPx3jI=
 			</data>
 		</dict>
 		<key>Modules/RemoteFramework.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5H3uYc7aqsTe9wgbE7XiR6mnh7XlHkfirAK1hGWEkwc=
+			7jLDoIegB2V6ElTJHaPYxRJwNoUH8ScL59TY5g8yrT8=
 			</data>
 		</dict>
 		<key>Modules/RemoteFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AzA9cSHyqZEND8+o+JMf9XxqOnEjQquet1U36yRgUcw=
+			I+57PT3PwxmWMzdebVJTmrXJb1dIzgsB4N48h7JAt4g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
