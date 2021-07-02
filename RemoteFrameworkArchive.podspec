@@ -2,11 +2,11 @@
 Pod::Spec.new do |spec|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.name         = "RemoteFramework"
+  spec.name         = "RemoteFrameworkArchive"
   spec.version      = "0.0.3"
   spec.summary      = "RemoteFramework"
-  spec.description  = "Testing RemoteFramework"
-  spec.homepage     = "http://EXAMPLE/RemoteFramework"
+  spec.description  = "Testing RemoteFrameworkArchive"
+  spec.homepage     = "http://EXAMPLE/RemoteFrameworkArchive"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -22,20 +22,20 @@ Pod::Spec.new do |spec|
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.source       = { :git => "https://github.com/prisonedinwardrobe/RemoteFrameworkArchive" }
+  spec.source       = { :git => "https://github.com/prisonedinwardrobe/RemoteFrameworkArchive.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.exclude_files = "RemoteFramework/Exclude"
-  spec.public_header_files = "RemoteFramework/**/*.h"
+  #spec.exclude_files = "RemoteFramework/Exclude"
+  #spec.public_header_files = "RemoteFramework/**/*.h"
   
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.resource  = "RemoteFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+  #spec.resource  = "RemoteFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
  
  
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.vendored_frameworks = "RemoteFramework.framework"
+  spec.vendored_frameworks = "RemoteFramework.framework.zip"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
