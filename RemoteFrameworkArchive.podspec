@@ -35,7 +35,7 @@ Pod::Spec.new do |spec|
  
  
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.vendored_frameworks = "RemoteFramework.framework.zip"
+  spec.vendored_frameworks = "RemoteFramework.framework"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
