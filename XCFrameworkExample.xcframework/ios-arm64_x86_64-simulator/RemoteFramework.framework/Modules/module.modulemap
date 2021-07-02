@@ -1,0 +1,11 @@
+framework module RemoteFramework {
+  umbrella header "RemoteFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module RemoteFramework.Swift {
+    header "RemoteFramework-Swift.h"
+    requires objc
+}
