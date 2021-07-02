@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   spec.dependency "SwiftGen"      #, '6.4.0'
   
   spec.pod_target_xcconfig = {
-        'FRAMEWORK_SEARCH_PATHS' => '$(inherited)'
+        'FRAMEWORK_SEARCH_PATHS' => '$(inherited)',
         'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES'
    }
 end
