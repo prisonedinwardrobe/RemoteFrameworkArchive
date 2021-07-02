@@ -2,11 +2,11 @@
 Pod::Spec.new do |spec|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.name         = "RemoteFrameworkArchive"
+  spec.name         = "RemoteFramework"
   spec.version      = "0.0.3"
   spec.summary      = "RemoteFramework"
-  spec.description  = "Testing RemoteFrameworkArchive"
-  spec.homepage     = "http://EXAMPLE/RemoteFrameworkArchive"
+  spec.description  = "Testing RemoteFramework"
+  spec.homepage     = "http://EXAMPLE/RemoteFramework"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
