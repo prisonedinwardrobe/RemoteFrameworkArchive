@@ -13,6 +13,11 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/prisonedinwardrobe/RemoteFrameworkArchive.git", :branch => "master", :tag => "0.0.1" }
   spec.vendored_frameworks = ['RemoteFramework.xcframework']
   spec.requires_arc = true
+  spec.static_framework = true
+  
+  spec.resource_bundles = {
+    'ESFrameworkResources' => 'Resources/*.{car,xcassets,json,wav,xcdatamodeld,stringsdict,strings}'
+  }
   
   spec.dependency 'AMPopTip'      #, '4.4.0'
   spec.dependency 'MBProgressHUD' #, '1.1.0'
