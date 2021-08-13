@@ -19,16 +19,6 @@ Pod::Spec.new do |spec|
     'ESFrameworkResources' => 'Resources/*.{car,xcassets,json,wav,xcdatamodeld,stringsdict,strings}'
   }
   
-  spec.dependency 'AMPopTip'      #, '4.4.0'
-  spec.dependency 'MBProgressHUD' #, '1.1.0'
-  spec.dependency 'QuickLayout'   #, '3.0.0'
-  spec.dependency 'SnapKit'       #, '5.0.0'
-  spec.dependency 'lottie-ios'    #, '3.1.8'
-  spec.dependency 'SDWebImage'    #, '5.0'
-  spec.dependency "Connectivity"  #, '5.0'
-  spec.dependency "BSImagePicker" #, '3.1'
-  spec.dependency "SwiftGen"      #, '6.4.0'
-  
   spec.pod_target_xcconfig = {
         'FRAMEWORK_SEARCH_PATHS' => '$(inherited)',
         'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES'
