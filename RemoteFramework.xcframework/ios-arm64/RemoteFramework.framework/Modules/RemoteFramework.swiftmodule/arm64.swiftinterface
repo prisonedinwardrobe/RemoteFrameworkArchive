@@ -7,7 +7,12 @@ import Swift
 final public class PublicLogger {
   final public func logPublic(message: Swift.String, logLevel: RemoteFramework.LogLevel)
   final public func logFromInternal(message: Swift.String, logLevel: RemoteFramework.LogLevel)
+  final public func loadBundles()
   public init()
+  public static let sdkBundle1: Foundation.Bundle?
+  public static let sdkBundle2: Foundation.Bundle?
+  public static let sdkBundle3: Foundation.Bundle?
+  public static let sdkBundle4: Foundation.Bundle?
   @objc deinit
 }
 public enum LogLevel {
