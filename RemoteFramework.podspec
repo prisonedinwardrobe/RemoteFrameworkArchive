@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.static_framework = true
   
   spec.resource_bundles = {
-    'ESFrameworkResources' => 'Resources/*.{car,xcassets,json,wav,xcdatamodeld,stringsdict,strings}'
+    'ESFrameworkResources' => 'Resources/**/*.{car,xcassets,json,wav,xcdatamodeld,stringsdict,strings}'
   }
   
   spec.pod_target_xcconfig = {
